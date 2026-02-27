@@ -18,7 +18,7 @@ Frontend je urađen koristeći HTML, CSS i Bootstrap, a backend koristeći PHP s
 Za sigurnost se koriste prepared statements kako bi se spriječio SQL Injection.
 
 ## Screenshot aplikacije
-![Screenshot](assets/screenshot.png)
+![Screenshot](php-mysql-backend/assets/screenshot.png)
 
 ## Bonus funkcije
 - Validacija forme u JavaScriptu
