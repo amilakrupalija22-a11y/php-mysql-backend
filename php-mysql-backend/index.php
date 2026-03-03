@@ -6,13 +6,13 @@
     <meta charset="UTF-8">
     <title>User Management</title>
 
-    <!-- RESPONSIVE -->
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- BOOTSTRAP -->
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- BOOTSTRAP ICONS -->
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
 </head>
 
@@ -20,14 +20,14 @@
 
 <div class="container mt-5">
 
-    <!-- HEADER -->
+
     <div class="card mb-4">
         <div class="card-header bg-primary text-white">
             <h5 class="mb-0">User Management</h5>
         </div>
     </div>
 
-    <!-- ADD USER -->
+
     <div class="card mb-4">
         <div class="card-body">
             <h6 class="mb-3">Add New User</h6>
@@ -52,7 +52,7 @@
         </div>
     </div>
 
-    <!-- USERS TABLE -->
+ 
     <div class="card">
         <div class="card-body">
             <h6 class="mb-3">Users List</h6>
